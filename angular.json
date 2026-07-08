@@ -30,6 +30,8 @@
               }
             ],
             "styles": [
+              "public/css/bootstrap.min.css",
+              "public/css/style.css",
               "src/styles.scss"
             ],
             "server": "src/main.server.ts",
@@ -93,6 +95,8 @@
               }
             ],
             "styles": [
+              "public/css/bootstrap.min.css",
+              "public/css/style.css",
               "src/styles.scss"
             ]
           }

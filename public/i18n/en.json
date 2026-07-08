@@ -1,0 +1,70 @@
+{
+  "TOPBAR": {
+    "LOCATION": "Find a location"
+  },
+  "NAV": {
+    "HOME": "Home",
+    "ABOUT": "About",
+    "VEHICLES": "Vehicles",
+    "TEAM": "Team",
+    "BLOG": "Blog",
+    "CONTACT": "Contact",
+    "CTA": "Book now"
+  },
+  "HERO": {
+    "TITLE": "Get 15% off your rental",
+    "SUBTITLE": "Plan your next trip with confidence"
+  },
+  "BOOKING": {
+    "TITLE": "Continue car reservation",
+    "SELECT_CAR": "Select your car type",
+    "PICKUP_PLACEHOLDER": "Enter pickup city or airport",
+    "DROPOFF_PLACEHOLDER": "Enter drop-off city or airport",
+    "BTN": "Book now"
+  },
+  "ABOUT": {
+    "TITLE_A": "Carental",
+    "TITLE_B": "About",
+    "DESCRIPTION": "Fast bookings, clear pricing and reliable vehicles for city and long-distance travel.",
+    "BTN": "More about us",
+    "VISION_TITLE": "Our Vision",
+    "VISION_TEXT": "To make premium mobility simple, transparent and accessible in every city.",
+    "MISSION_TITLE": "Our Mission",
+    "MISSION_TEXT": "Deliver secure, clean and ready-to-go vehicles with first-class support.",
+    "HIGHLIGHT_TEXT": "From airport pickups to long road trips, we combine flexible plans with predictable pricing.",
+    "EXPERIENCE_LABEL": "Years of experience",
+    "BULLET_1": "24/7 customer support",
+    "BULLET_2": "Full insurance options",
+    "BULLET_3": "Wide fleet availability",
+    "BULLET_4": "Fast pickup and return",
+    "FOUNDER_NAME": "William Burgess",
+    "FOUNDER_ROLE": "Carental Founder"
+  },
+  "VEHICLES": {
+    "TITLE_A": "Our",
+    "TITLE_B": "Vehicles",
+    "DESCRIPTION": "Choose from economy, premium and electric models for every journey.",
+    "DAY": "day",
+    "REVIEW": "Review",
+    "SEAT": "Seat",
+    "PETROL": "Petrol",
+    "HYBRID": "Hybrid",
+    "ELECTRIC": "Electric"
+  },
+  "TEAM": {
+    "TITLE": "Customer Support Center",
+    "DESCRIPTION": "Our team is available to help you with reservations and travel questions."
+  },
+  "BLOG": {
+    "TITLE_A": "Carental",
+    "TITLE_B": "Blog & News",
+    "DESCRIPTION": "Tips, routes and updates for smarter car rentals."
+  },
+  "FOOTER": {
+    "ABOUT": "About us",
+    "ABOUT_TEXT": "Trusted partner for short and long term car rentals.",
+    "HOURS": "Business hours",
+    "HOURS_VALUE": "Mon - Sun: 08:00 - 20:00",
+    "CONTACT": "Contact info"
+  }
+}
